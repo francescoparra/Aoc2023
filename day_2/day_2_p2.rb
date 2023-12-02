@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-values = File.readlines('/home/fp/Desktop/Aoc2023/day_2/input', chomp: true)
+values = File.readlines('input', chomp: true)
 
 result = 0
 
