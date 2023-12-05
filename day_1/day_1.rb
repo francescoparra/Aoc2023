@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-values = File.readlines('input', chomp: true)
+values = File.readlines('add_your_input_path', chomp: true)
 sum = 0
 str_to_int_hash =
   {
