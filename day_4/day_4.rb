@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-values = File.readlines('/home/fp/Desktop/Aoc2023/day_4/input.txt', chomp: true)
+values = File.readlines('add_your_input', chomp: true)
 
 total_points = 0
 total_scratchcards = 0
